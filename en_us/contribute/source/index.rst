@@ -71,14 +71,16 @@ edX platform because the barrier to entry is low.
 Get to Work!
 ************
 
-Get started with the edX :ref:`installation:Installing and Updating Devstack` 
-environment and follow the information in the ticket you selected to complete it.
+Get started with the `edX devstack`_  environment and follow the information in
+the ticket you selected to complete it.
+
+.. _edX devstack: https://edx.readthedocs.io/projects/edx-installing-configuring-and-running/en/latest/installation/index.html
 
 ****************
 Getting Support
 ****************
 
-Join the #`incr Slack`_ channel on Open edX Slack to ask questions and get 
+Join the `incr Slack`_ channel on Open edX Slack to ask questions and get 
 support. There may also be other channels to get technical support mentioned 
 in your specific ticket.
 
@@ -98,7 +100,7 @@ different ticket.
 Making Your First Pull Request
 ******************************
 
-When you are ready, create a :ref:`Pull Request<opendevelopers:contributor>`. 
+When you are ready, create a `Pull Request`_. 
 (Don't forget to sign the Contributor Agreement.)
 
     #. Be sure to reference which INCR ticket your code is resolving.
@@ -106,6 +108,8 @@ When you are ready, create a :ref:`Pull Request<opendevelopers:contributor>`.
     #. Communicate with the reviewer about the code and respond to feedback.
     #. Once your PR is approved, it will be merged by the reviewer.
     #. Celebrate 🎉
+
+.. _Pull Request:  https://edx.readthedocs.io/projects/edx-developer-guide/en/latest/process/contributor.html#contributor
 
 ****************
 Giving Feedback
@@ -115,7 +119,7 @@ We are always looking to improve this process and make it easier for people to
 contribute to the platform. Your feedback is a very important part of that 
 process.
 
-Submit that feedback with this `feedback form`_.
+If you would like to provide feedback, send it to us with this `feedback form`_.
 
 .. _feedback form: https://docs.google.com/forms/d/e/1FAIpQLSc87h1h7ptJYb6bsnhQ6NyLOLmW8Tl1_zkd4cNiQrn-1GQ94Q/viewform
  

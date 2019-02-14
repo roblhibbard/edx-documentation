@@ -1,3 +1,5 @@
+.. _Contributor overview: 
+
 *****************************
 Process for Contributing Code
 *****************************
@@ -14,6 +16,16 @@ and other contributors can expect from each other. The goals are:
   while respecting developer time and product owner prioritization.
 * Maintain a high standard for code quality, while avoiding hurt feelings
   as much as possible.
+
+Quick Start: the INCR Project
+-----------------------------
+
+If you're just getting started with Open edX development, we have set up a 
+process to make it easier for you to contribute, beginning with smaller, clearly
+defined issues for you to work on. For more information, see
+`Contributing to Open edX`_.
+
+.. _Contributing to Open edX: https://edx.readthedocs.io/projects/contribute/en/index.html
 
 Overview
 --------
@@ -39,7 +51,8 @@ upstream, including but not limited to these types of contributions.
 * Changes to any associated repos (edx-analytics, configuration, XBlock, etc.).
 * A new XBlock you're writing that you intend to have run on edx.org.
 
-We do not need to review your code if you are writing a tool or customization for your own installation.
+We do not need to review your code if you are writing a tool or customization 
+for your own installation.
 
 * An XBlock to be run on your own server, not intended to run on edx.org.
 * LTI tools that are running on an external server.
